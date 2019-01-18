@@ -1,5 +1,8 @@
 first line
+<<<<<<< HEAD
 second line
 third line
 fourth line
 fifth line
+=======
+>>>>>>> parent of 564a042... mycommit2
